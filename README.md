@@ -1,8 +1,6 @@
 # 📋 Dokumentasi Aplikasi Presensi Karyawan
 
 **Disusun oleh:** Ahmad Wahyudi Tanjung  
-**Versi:** 1.0  
-**Tanggal:** 2024
 
 ## 📖 1. Latar Belakang dan Tujuan
 
